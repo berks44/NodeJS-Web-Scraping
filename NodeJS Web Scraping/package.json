@@ -1,0 +1,19 @@
+{
+  "name": "labproje",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "cheerio": "^1.0.0-rc.6",
+    "mongoose": "^5.12.11",
+    "puppeteer": "^9.1.1",
+    "selenium-webdriver": "^4.0.0-beta.3",
+    "yargs": "^16.2.0"
+  }
+}
